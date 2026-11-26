@@ -1,6 +1,8 @@
 # One Line to Get Your Agent Deleted
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-black)](https://make.fun/c/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+[![make.fun](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+[![rank](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/cryptokom-tech/one-line-to-get-your-agent-deleted/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/leaderboard)
+[![reward](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/cryptokom-tech/one-line-to-get-your-agent-deleted/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
 
 Entry for the make.fun bounty
 [One Line to Get Your Agent Deleted](https://make.fun/c/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0).
